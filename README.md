@@ -1,28 +1,63 @@
-# Hi there 👋
+# Hi there 
 
-I'm Mark Benison, a BS Computer Science Graduate and Full-Stack Developer specializing in adaptive learning systems and AI-powered educational technologies.
+## I'm Mark Benison
 
-## 🚀 Tech Stack
+BS Computer Science Graduate | Full-Stack Developer | Researcher in Adaptive Learning and AI Systems
+
+---
+
+## Tech Stack
 
 ### Frontend
-- React
-- TypeScript
-- Vite
-- Tailwind CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind" />
+</p>
 
 ### Backend & Database
-- Firebase
-- Firestore
-- Firebase Authentication
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase" />
+</p>
 
-### AI & Learning Technologies
-- OpenAI API
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+## Research & Specialization
+
 - Adaptive Learning Systems
-- Bayesian Knowledge Tracing
+- AI in Education
+- Personalized Learning Sequence (PLS)
+- Learning Analytics
+- Knowledge Tracing (KT)
 - Item Response Theory (IRT)
 - Cognitive Diagnostic Models (CDM)
-- Computerized Adaptive Testing
 
-## 📌 Featured Project
+---
+
+## Featured Project
+
 ### CEM-PLS-Pro
-Adaptive Personalized Learning Sequence (PLS) system for students with learning difficulties.
+Adaptive Personalized Learning Sequence (PLS) system designed for students with learning difficulties using reinforcement-based learning mechanisms and AI-assisted educational support.
+
+🔗 https://cem-pls-pro-21ey.vercel.app
+
+---
+
+## Connect With Me
+
+<p>
+  <a href="https://github.com/mmbmendevil">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/mark-benison-mendevil">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+- GitHub: https://github.com/mmbmendevil
+- LinkedIn: https://www.linkedin.com/in/mark-benison-mendevil
+- Email: mmbmendevil@gmail.com
