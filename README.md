@@ -31,9 +31,10 @@ BS Computer Science Graduate | Full-Stack Developer | Researcher in Adaptive Lea
 - AI in Education
 - Personalized Learning Sequence (PLS)
 - Learning Analytics
-- Knowledge Tracing (KT)
+- Bayesian Knowledge Tracing (BKT)
 - Item Response Theory (IRT)
 - Cognitive Diagnostic Models (CDM)
+- Computerized Adaptive Testing (CAT)
 
 ---
 
