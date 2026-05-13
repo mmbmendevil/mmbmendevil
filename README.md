@@ -18,9 +18,10 @@ I'm Mark Benison, a BS Computer Science Graduate and Full-Stack Developer specia
 ### AI & Learning Technologies
 - OpenAI API
 - Adaptive Learning Systems
-- Knowledge Tracing
+- Bayesian Knowledge Tracing
 - Item Response Theory (IRT)
 - Cognitive Diagnostic Models (CDM)
+- Computerized Adaptive Testing
 
 ## 📌 Featured Project
 ### CEM-PLS-Pro
